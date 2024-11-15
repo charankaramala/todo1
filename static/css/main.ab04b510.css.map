@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.ab04b510.css","mappings":"AAAA,iBAEE,YAAY,CACZ,6BACF","sources":["index.css"],"sourcesContent":[".list-group-item\n{\n  display:flex;\n  justify-content: space-between;\n}"],"names":[],"sourceRoot":""}
